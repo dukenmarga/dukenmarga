@@ -1,16 +1,35 @@
-### Hi there 👋
+### About
+
+Hello there!
+
+I'm Duken Marga from Indonesia. I'm a Structural (Civil) Engineer in day to day life. I found in my earlier college life that programming is more than fun.
+I'm always fascinated with structural modelling and math behind analysis/design of any structure.
+
+- 🔭 I’m currently working on [LinearStep](https://linearstep.com). Using this, you can analyse and design element structures using web browser.
+Currently, Indonesian only can subscribe to the apps.
+
+- 🌱 I’m currently learning on these technologies to build LinearStep:
+  - Flask (Python)
+  - Svelte & SvelteKit (Javascript)
+  - Hugo (Go)
+
+
+### Statistic
+![dukenmarga github stats](https://github-readme-stats.vercel.app/api?username=dukenmarga&show_icons=true&count_private=true&theme=dracula)
+
+### On Internet
+- Instagram: https://instagram.com/dukenmarga
+- Blog: https://dukenmarga.id/
+- LinearStep: https://linearstep.com/
 
 <!--
-**dukenmarga/dukenmarga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dukenmarga&repo=civil-engineering-toolbox&show_owner=true)](https://github.com/dukenmarga/civil-engineering-toolbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dukenmarga)](https://github.com/dukenmarga/)
+
 -->
+
