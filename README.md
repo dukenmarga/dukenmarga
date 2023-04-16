@@ -10,7 +10,8 @@ Currently, Indonesian only can subscribe to the apps.
 
 - 🌱 I’m currently learning on these technologies to build LinearStep:
   - Flask (Python)
-  - Svelte & SvelteKit (Javascript)
+  - MongoDB
+  - Svelte & SvelteKit (Typescript/Javascript)
   - Hugo (Go)
 
 Some of my portfolio:
