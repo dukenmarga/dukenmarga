@@ -8,7 +8,7 @@ I'm always fascinated with structural modelling and math behind analysis/design 
 - 🔭 I’m currently working on [LinearStep](https://linearstep.com). Using this, you can analyse and design element structures using web browser.
 Currently, Indonesian only can subscribe to the apps.
 
-- 🌱 I’m currently learning on these technologies to build LinearStep:
+- 🌱 I’m using these technologies to build LinearStep:
   - Flask (Python)
   - MongoDB
   - Svelte & SvelteKit (Typescript/Javascript)
