@@ -18,9 +18,6 @@ Some of my portfolio:
 - Short URL! ([Github](https://github.com/dukenmarga/short-url), [Demo](https://short-it-vcys.onrender.com/))
 - [LinearStep](https://linearstep.com/)
 
-### Statistic
-![dukenmarga github stats](https://github-readme-stats.vercel.app/api?username=dukenmarga&show_icons=true&count_private=true&theme=dracula)
-
 ### On Internet
 - Instagram: https://instagram.com/dukenmarga
 - Blog: https://dukenmarga.id/
