@@ -19,7 +19,6 @@ Some of my portfolio:
 - [LinearStep](https://linearstep.com/)
 
 ### On Internet
-- Instagram: https://instagram.com/dukenmarga
 - Blog: https://dukenmarga.id/
 - LinearStep: https://linearstep.com/
 
